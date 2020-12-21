@@ -1,0 +1,2 @@
+saya menggunakan algoritma bubblesort untuk melakukan pengurutan dengan cara
+memindahkan posisi data array dengan data array di sebelahnya sampai data terurut mulai dari kecil ke terbesar atau dari besar ke terkecil
